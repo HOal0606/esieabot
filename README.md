@@ -5,8 +5,8 @@ Le programme commande le bot ESIEA
 
 le version de python est de 3.90 à 3.10
 
-les pré-requis à installer dans le système du bot :
-
+les pré-requis:
+	Modifier le TOKEN du programme.py avec celui de votre Bot
 	Installtion mise à jour système
 	Installation python3 :
 		sudo apt install python3-pip
